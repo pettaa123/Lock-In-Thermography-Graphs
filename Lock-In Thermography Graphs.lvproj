@@ -18,10 +18,18 @@
 				<Item Name="test Init.lvclass" Type="LVClass" URL="../tests/Base Graph/test Init/test Init.lvclass"/>
 				<Item Name="test Move Cursor into ROI.lvclass" Type="LVClass" URL="../tests/Base Graph/test Move Cursor into ROI/test Move Cursor into ROI.lvclass"/>
 			</Item>
+			<Item Name="Graph with Analysis Controls" Type="Folder">
+				<Item Name="test Get Analysis ROI.lvclass" Type="LVClass" URL="../tests/Graph with Analysis Controls/test Get Analysis ROI/test Get Analysis ROI.lvclass"/>
+			</Item>
 			<Item Name="Graph with Section Views" Type="Folder">
 				<Item Name="test Init Graph with Section Views.lvclass" Type="LVClass" URL="../tests/Graph with Section Views/test Init Graph with Section Views/test Init Graph with Section Views.lvclass"/>
 				<Item Name="test Scale.lvclass" Type="LVClass" URL="../tests/Graph with Section Views/test Scale/test Scale.lvclass"/>
 				<Item Name="test Update ROI.lvclass" Type="LVClass" URL="../tests/Graph with Section Views/test Update ROI/test Update ROI.lvclass"/>
+				<Item Name="test Update.lvclass" Type="LVClass" URL="../tests/Graph with Section Views/test Update/test Update.lvclass"/>
+			</Item>
+			<Item Name="Graph with Series View" Type="Folder">
+				<Item Name="test Init Series Graph.lvclass" Type="LVClass" URL="../tests/Graph with Series View/test Init Series Graph/test Init Series Graph.lvclass"/>
+				<Item Name="test Update Series View.lvclass" Type="LVClass" URL="../tests/Graph with Series View/test Update Series View/test Update Series View.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Base Graph.lvclass" Type="LVClass" URL="../source/Base Graph/Base Graph.lvclass"/>
@@ -79,7 +87,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="test Move Cursor into ROI.ctl" Type="VI" URL="../tests/test Move Cursor into ROI/test Move Cursor into ROI.lvclass/test Move Cursor into ROI.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
