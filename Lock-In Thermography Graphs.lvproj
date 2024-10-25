@@ -20,6 +20,8 @@
 			</Item>
 			<Item Name="Graph with Analysis Controls" Type="Folder">
 				<Item Name="test Get Analysis ROI.lvclass" Type="LVClass" URL="../tests/Graph with Analysis Controls/test Get Analysis ROI/test Get Analysis ROI.lvclass"/>
+				<Item Name="test Init Analysis Graph.lvclass" Type="LVClass" URL="../tests/Graph with Analysis Controls/test Init Analysis Graph/test Init Analysis Graph.lvclass"/>
+				<Item Name="test Set Cursors X Pos.lvclass" Type="LVClass" URL="../tests/Graph with Analysis Controls/test Set Cursors X Pos/test Set Cursors X Pos.lvclass"/>
 			</Item>
 			<Item Name="Graph with Section Views" Type="Folder">
 				<Item Name="test Init Graph with Section Views.lvclass" Type="LVClass" URL="../tests/Graph with Section Views/test Init Graph with Section Views/test Init Graph with Section Views.lvclass"/>
